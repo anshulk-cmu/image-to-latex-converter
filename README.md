@@ -20,6 +20,9 @@ A React-based web application that converts images containing mathematical equat
 - **File Management**: Support for multiple image formats with size limits
 - **Environment Configuration**: Secure API key management through environment variables
 
+## Live Demo
+![Image-to-LaTeX Converter Interface](docs/images/image.png)
+
 ## Technical Architecture
 
 ### Frontend Stack
